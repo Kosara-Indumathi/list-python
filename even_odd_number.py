@@ -6,3 +6,6 @@ while i<len(list):
     else:
         print(list[i],"odd numbers")
     i=i+1
+
+
+

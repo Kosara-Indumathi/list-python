@@ -13,5 +13,4 @@ rev=len(places)-1
 while rev>=0:
        print(places[rev])
        rev-=1
-
         
